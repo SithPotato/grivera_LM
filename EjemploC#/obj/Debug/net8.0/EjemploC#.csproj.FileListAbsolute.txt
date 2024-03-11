@@ -1,0 +1,15 @@
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\bin\Debug\net8.0\EjemploC#.exe
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\bin\Debug\net8.0\EjemploC#.deps.json
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\bin\Debug\net8.0\EjemploC#.runtimeconfig.json
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\bin\Debug\net8.0\EjemploC#.dll
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\bin\Debug\net8.0\EjemploC#.pdb
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.AssemblyInfoInputs.cache
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.AssemblyInfo.cs
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.csproj.CoreCompileInputs.cache
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.sourcelink.json
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.dll
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\refint\EjemploC#.dll
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.pdb
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\EjemploC#.genruntimeconfig.cache
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\EjemploC#\obj\Debug\net8.0\ref\EjemploC#.dll
