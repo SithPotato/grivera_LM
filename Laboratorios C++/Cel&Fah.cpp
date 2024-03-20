@@ -5,7 +5,7 @@ int main()
 {
     double celsius;
     double fahrenheit;
-
+    
     cout <<"Ingrese la temperatura en grados Celcius:" ;
     cin >>celsius;
 

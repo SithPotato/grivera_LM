@@ -14,6 +14,10 @@ int main()
     cout <<"Ingrese la base de el rectangulo:";
     cin >>base;
 
-    area = base * altura 
-    perimetro = 2a + 2b (a  altura, b – base)
+    area = base * altura;
+    perimetro = base + altura;
+
+    cout <<"el perimtro de el rectangulo es" <<perimetro <<endl;
+    
+    return 0;
 }
