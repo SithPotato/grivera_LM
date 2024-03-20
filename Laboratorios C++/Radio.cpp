@@ -14,5 +14,5 @@ int main()
 
     cout <<"el area media es "<<radio <<endl;
 
-    return 0 
+    return 0;
 } 
