@@ -5,7 +5,7 @@ int main()
 {
     int numerador , denominador, resultado;
 
-    cout<<"Ingrese el numerador:";
+    cout<<"Ingrese el numerador: ";
     cin >>numerador;
 
     cout<<"Ingrese el denominador: ";
@@ -19,12 +19,12 @@ int main()
         }
         resultado = numerador / denominador;
 
-        cout <<"Resultado" <<resultado <<endl;
+        cout <<"Resultado:" <<resultado <<endl;
         
     }
     catch(const char* mensaje)
     {
-        cout << "Excepcion capturada:" <<mensaje <<endl;
+        cout << "Excepcion capturada: " <<mensaje <<endl;
     }
      return 0;
 }
