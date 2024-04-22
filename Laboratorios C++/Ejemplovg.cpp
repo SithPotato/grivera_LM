@@ -7,7 +7,7 @@ int numero02=5;
         //Declaracion de funciones
 int sumar();
 int restar();
-        //Definicion de Declaracion
+        //Definicion de Definicion
 int main()
 {
     cout <<"Suma de los numeros:" <<sumar() <<endl;
