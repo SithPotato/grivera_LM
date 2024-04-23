@@ -1,0 +1,15 @@
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\bin\Debug\net8.0\HorastrabC#.exe
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\bin\Debug\net8.0\HorastrabC#.deps.json
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\bin\Debug\net8.0\HorastrabC#.runtimeconfig.json
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\bin\Debug\net8.0\HorastrabC#.dll
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\bin\Debug\net8.0\HorastrabC#.pdb
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.AssemblyInfoInputs.cache
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.AssemblyInfo.cs
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.csproj.CoreCompileInputs.cache
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.sourcelink.json
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.dll
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\refint\HorastrabC#.dll
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.pdb
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\HorastrabC#.genruntimeconfig.cache
+C:\Users\grivera2691\Documents\GitHub\grivera_LM\HorastrabC#\obj\Debug\net8.0\ref\HorastrabC#.dll
